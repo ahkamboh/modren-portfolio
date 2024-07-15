@@ -127,13 +127,13 @@ export default function Home() {
       </div>
       {/* Companies Computer */}
       <div className="w-full lg:pl-16 lg:grid hidden lg:justify-start justify-center pt-24 mb-10">
-        <h1 className="ClashDisplay-Semibold text-6xl  lg:text-start text-center">Companies I’ve Worked With</h1>
+        <h1 className="ClashDisplay-Semibold text-6xl  lg:text-start text-center">Companies I&apos;ve Worked With</h1>
         <img src="/linelong.png" alt="project-line-png" className="w-[98%]" />
       </div>
      {/* Companies  Mobile */}
      <div className="py-20 lg:hidden  w-full flex flex-col justify-center items-center ">
       <div className="w-fit lg:pl-16 flex flex-col  justify-center  items-center  ">
-       <h1 className="ClashDisplay-Semibold sm:text-6xl text-3xl  lg:text-start text-center">Companies I’ve </h1>
+       <h1 className="ClashDisplay-Semibold sm:text-6xl text-3xl  lg:text-start text-center">Companies I&apos;ve </h1>
         <img src="/aboutline.png" alt="project-line-png" className=" sm:w-full w-[79%]  " />
       </div>
       <div className="w-fit lg:pl-16 flex flex-col items-center  justify-center  ">
@@ -147,7 +147,7 @@ export default function Home() {
     </div>
 
     <Footer/>
-    
+
     </ div>
   );
 }
