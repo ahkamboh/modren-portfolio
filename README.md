@@ -1,3 +1,4 @@
+![Portfolio - Cover](https://github.com/user-attachments/assets/38c3dbf4-f0e5-4999-8963-5664ba042474)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
