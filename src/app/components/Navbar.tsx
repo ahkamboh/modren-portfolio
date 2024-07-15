@@ -14,7 +14,7 @@ function Navbar() {
       <div className="container mx-auto">
         <div className="list-none flex justify-between p-5">
           <div className="">
-            <Image src="/logo.svg" width={60} height={60} alt="Nav Logo" />
+            <img src="/logo.svg"  alt="Nav Logo" className='w-[60px]' />
           </div>
           <div className="sm:flex hidden gap-5 ClashDisplay-Regular">
             <li className=' text-white hover:text-blue-500 transition-colors duration-300'><a href="">Home</a></li>
